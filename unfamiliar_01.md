@@ -173,7 +173,6 @@
 | gregarious     | adj. 群居的，爱社交的                                      |      |
 | grovel         | vi. 趴, 匍匐, 卑躬屈膝, 五体投地的                         |      |
 | gumption       | n. 机智，老练；勇气，胆力                                  |      |
-| hamstring      | v. 残废                                                    |      |
 | harangue       | n. 长篇大论；高谈阔论 vi. 高谈阔论；慷慨陈词               |      |
 | haughty        | adj. 傲慢的 (hauteur)                                      |      |
 | hector         | vt.& vi.吓唬，欺凌 n.暴徒，威吓者，作威作福的人            |      |
