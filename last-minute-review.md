@@ -52,3 +52,56 @@
 | comity         | overshadow    | meddle        | enchanting    | stilted         |
 | fraudulent     | rankle        | anthropogenic | countenance   | multifarious    |
 | recoil         | unfathomable  | churlish      |               |                 |
+
+## 2018-10-16
+
+| Vocabulary       |                  |                   |                 |                    |
+|------------------|------------------|-------------------|-----------------|--------------------|
+| court            | woo              | sinister          | egoism          | epitome            |
+| scintillating    | incendiary       | veracious         | pathetic        | dictate            |
+| assiduous        | dissemble        | rever             | premonitory     | buoyant            |
+| blithe           | disseminate      | apolitical        | obviate         | audacious          |
+| animadversion    | adorn            | duplicitous       | tenacious       | vehement           |
+| detract          | seclusion        | commence          | mordant         | furtive            |
+| unidimensional   | jaded            | visionary         | archetypal      | persevere          |
+| indiscriminate   | disinformation   | solidarity        | preempt         | recapitulate       |
+| paralyze         | plethora         | burlesque         | upsurge         | grouchy            |
+| brag             | heed             | animus            | rampant         | luxuriant          |
+| repudiate        | recant           | quirky            | unconventional  | reiterate          |
+| conscientious    | disquisition     | foretell          | understate      | discredit          |
+| underscore       | provisional      | circumspect       | falsehood       | majestic           |
+| pathological     | circuitous       | appease           | ethereal        | partisan           |
+| scrupulous       | monolithic       | scathing          | off-putting     | profligate         |
+| sycophantic      | shoddy           | verisimilitude    | plaintive       | detestation        |
+| nimble/adroit    | dexterous        | tautology         | convulsion      | exorbitant         |
+| perforce         | omnivorous       | urbane            | idiosyncrasy    | fetishize          |
+| pathos           | percuniary       | forthcoming       | panoply         | arboreal           |
+| nostalgia        | peremptory       | avian             | ramshackle      | quiver             |
+| rancor           | fissure          | parley            | fissure         | dewy-eyed          |
+| demarcate        | evince           | demolish          | snapshot        | flatter/obsequious |
+| gut              | terse            | cachet            | contrite        | veer               |
+| neologism        | archaism         | unanimous         | hallow          | aristocracy        |
+| annals           | execrate         | unexampled        | tug             | claustrophobic     |
+| atavism          | prefidious       | peregrination     | retribution     | charlatan          |
+| malinger         | halcyon          | evocative         | nonchalant      | prodigal           |
+| eradicate        | disengage        | rebound           | unilateral      | protean            |
+| pillory          | ennui            | plunder           | tectonic        | monogamy           |
+| dismissive       | invertebrate     | pathogen          | synchronous     | hagiography        |
+| insurrection     | segregate        | adulterate        | anemia          | colloquial         |
+| hoodwink         | boycott          | latent            | sentimental     | preeminent         |
+| protagonist      | skew             | pedagogical       | domesticate     | straggle           |
+| rhetorical       | impinge          | milieu            | delineate       | condone            |
+| agonize          | revere           | fecklessness      | reckless        | unsparing          |
+| penitential      | frivolous        | frivolity         | orthodox        | predicament        |
+| fester           | ascertain        | counterproductive | unrelenting     | soporific          |
+| skittish         | tranquil         | tawdry            | menace          | painstaking        |
+| humanitarian     | predispose       | sinister          | pivotal         | morbid             |
+| herald           | ruthless         | clangorous        | canonical       | quotidian          |
+| bathetic         | retrofit         | impecunious       | tacit           | transgress         |
+| penchant         | affiliated       | kindred           | run-of-the-mill | oratorical         |
+| immense          | penchant         | fusty             | rejuvenate      | acquisitive        |
+| harbinger/herald | staple/principal | declamatory       | petty           | hard-nosed         |
+| ruminate         | decor            | misnomer          | regimen         | demographic        |
+| devoid           | conceive         | exuberant         | devolve         | revolt             |
+| lassitude        | pompous          | proselytize       | prudent         | calumny            |
+| heed             | histrionic       | unaffected        | pliable         | deprecate          |
