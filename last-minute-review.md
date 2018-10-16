@@ -105,3 +105,10 @@
 | devoid           | conceive         | exuberant         | devolve         | revolt             |
 | lassitude        | pompous          | proselytize       | prudent         | calumny            |
 | heed             | histrionic       | unaffected        | pliable         | deprecate          |
+| perspicacity     | perspicuous      | callousness       | clearheadedness | fortuitous         |
+| shun             | imperative       | heterodox         | iconoclastic    | subsidy            |
+| verge            | fickleness       | sullen            | surly           | juxtaposition      |
+| retrospect       | fixated on       | quandary          | predicament     | hypocrite          |
+| sycophant        | adulator         | braggart          | morbid          | daunting           |
+| exact a toll     | tepid            | clangorous        | rejuvenate      | fleeting           |
+| hortatory        | transgression    | tacit             | extant          | opulent            |
