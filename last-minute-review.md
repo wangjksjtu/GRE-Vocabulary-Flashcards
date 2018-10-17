@@ -112,3 +112,64 @@
 | sycophant        | adulator         | braggart          | morbid          | daunting           |
 | exact a toll     | tepid            | clangorous        | rejuvenate      | fleeting           |
 | hortatory        | transgression    | tacit             | extant          | opulent            |
+
+## 2018-10-17
+| Vocabulary        |                   |                |              |                    |
+|-------------------|-------------------|----------------|--------------|--------------------|
+| incense           | mortify           | heterodox      | sporadic     | dictate            |
+| buoyant           | premonitory       | abreast        | obstinate    | redeem             |
+| iconoclastic      | debacle           | hidebound      | sullen/surly | juxtapose          |
+| prudent           | obnoxious         | rhapsody       | stanch       | bungle             |
+| fixate            | aghast            | glamorous      | apostle      | pious              |
+| foreground        | self-righteous    | brandish       | schism       | providential       |
+| tumultuous        | panache           | gawky          | virulent     | malignant          |
+| lurid             | sartorial         | supersede      | approbate    | relinquish         |
+| replenish         | manacle           | rein/bridle    | digress      | entrench           |
+| prowess           | secular           | disgruntle     | gracious     | polarize           |
+| humdrum           | hand-wringing     | vanquish       | prevaricate  | eclectic           |
+| haughty           | dismantle         | caricature     | apposite     | germane            |
+| exigent           | florid            | defame         | inveigle     | timorous           |
+| narcissism        | interminable      | posture        | substantiate | snare              |
+| beholden/indebted | impute            | nettle         | contemptuous | objurgation        |
+| nascent           | deft              | clearheaded    | interweave   | rhetoric           |
+| fringe            | implore           | supplicate     | entreaty     | modish             |
+| salubrious        | supplicate        | denigrate      | treacherous  | objectionable      |
+| recrudesce        | tangible          | nebulous       | utter        | doom               |
+| slender           | garner            | prompt         | assail       | prosecute          |
+| bestow            | requisite         | splendor       | exempt       | spacious           |
+| strenuous         | wrench            | confiscate     | ferocious    | consign            |
+| grapple           | prodigious        | assimilate     | encroach     | confer             |
+| subdue            | dwell             | vicinity       | tentative    | pillage            |
+| hereditary        | preoccupied       | exhale         | rebuke       | cavalier           |
+| prerogative       | interweave        | deflect        | finesse      | belated            |
+| sheer             | levity            | insidious      | ostensible   | somber             |
+| contour           | voluminous        | revile         | corporeal    | oscillate/waver    |
+| monarchy          | inoculate         | subsist        | suffrage     | exile              |
+| oblique           | bequeath          | retention      | ramify       | prescribe          |
+| inhale            | dexterity         | ooze           | eject/oust   | overdue            |
+| brusque           | prosaic/prose     | uprising       | touchstone   | parody             |
+| decimate          | siphon            | procure        | hiatus       | cantankerous       |
+| escalate          | bombard           | vernacular     | hitherto     | vertiginous        |
+| bravado           | steadfast         | oblivious      | refractory   | abiding            |
+| debonair          | infuriate         | crestfallen    | wistful      | concur             |
+| boast             | extrapolate       | ordain         | mirth        | jovial             |
+| cajole            | proscribe         | arguably       | hectic       | instigate/abet     |
+| sumptuous         | volition          | obstreperous   | credulous    | asunder            |
+| winnow            | petulant          | preside        | indulgent    | yearn              |
+| meretricious      | anodyne           | gravitate      | sumptuous    | cajole/coax        |
+| snub/slight       | obliterate        | seethe         | subservient  | trenchant/profound |
+| instigate         | fusty/obsolete    | vituperate     | rattle       | molder             |
+| implicate         | choreograph       | incipient      | boisterous   | uproarious         |
+| renounce          | compartmentalize  | maelstrom      | captious     | vulgar             |
+| fealty            | bristle           | languish       | nugatory     | inept              |
+| spartan           | ancillary         | sequester      | budding      | vainglory          |
+| comsummate        | like-minded       | ecumenical     | rescind      | ardent             |
+| distend           | subterfuge        | agglomerate    | protract     | stymie             |
+| seminal           | authoritarian     | leap           | tepid        | malodor/noisome    |
+| senescence        | decrepitude       | sturdiness     | cognizant    | conversant         |
+| tribulation       | panorama          | beleaguer      | incumbent    | hermetic           |
+| encapsulate       | interdisciplinary | impunity       | reprisal     | sublime            |
+| remonstrate       | commiserate       | expostulate    | anneal       | vicissitude        |
+| piecemeal         | myopic            | polyglot       | machination  | nefarious          |
+| indigent          | sabotage          | discriminatory | commend      | gossamer           |
+| lenient           | rectitude         |                |              |                    |
